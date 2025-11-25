@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kr4-tech/static/css/main.6a008a4b.css",
+    "main.js": "/kr4-tech/static/js/main.74156ff4.js",
+    "static/js/453.7be42e51.chunk.js": "/kr4-tech/static/js/453.7be42e51.chunk.js",
+    "index.html": "/kr4-tech/index.html",
+    "main.6a008a4b.css.map": "/kr4-tech/static/css/main.6a008a4b.css.map",
+    "main.74156ff4.js.map": "/kr4-tech/static/js/main.74156ff4.js.map",
+    "453.7be42e51.chunk.js.map": "/kr4-tech/static/js/453.7be42e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a008a4b.css",
+    "static/js/main.74156ff4.js"
+  ]
+}

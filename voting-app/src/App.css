@@ -1,0 +1,86 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.add-movie {
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.add-movie input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+  flex: 1;
+  max-width: 300px;
+}
+
+.add-movie button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.add-movie button:hover {
+  background-color: #45a049;
+}
+
+.movie-lists {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-section {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.list-section h2 {
+  color: #555;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.list-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-section li {
+  background-color: #f9f9f9;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-section button {
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+.list-section button:hover {
+  background-color: #0b7dda;
+}
